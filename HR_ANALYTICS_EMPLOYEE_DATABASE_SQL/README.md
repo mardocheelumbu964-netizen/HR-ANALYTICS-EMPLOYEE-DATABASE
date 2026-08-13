@@ -6,9 +6,9 @@ A professional MySQL portfolio project for analyzing employees, departments, sal
 DDL, DML, constraints, JOINs, aggregations, subqueries, CTEs, CASE, window functions, views, stored procedures, triggers and indexes.
 
 ## Run Order
-1. database/01_create_database.sql
-2. database/02_create_tables.sql
-3. database/03_insert_sample_data.sql
+1. create_database.sql
+2. create_tables.sql
+3. insert_sample_data.sql
 4. Run analysis files in queries/
 5. Run views, procedures, triggers and indexes as required.
 

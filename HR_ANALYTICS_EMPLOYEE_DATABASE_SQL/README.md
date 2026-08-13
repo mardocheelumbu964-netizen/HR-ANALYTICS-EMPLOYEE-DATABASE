@@ -9,7 +9,7 @@ DDL, DML, constraints, JOINs, aggregations, subqueries, CTEs, CASE, window funct
 1. create_database.sql
 2. create_tables.sql
 3. insert_sample_data.sql
-4. Run analysis files in queries/
+4. Run analysis files in queries
 5. Run views, procedures, triggers and indexes as required.
 
 ## Main Analysis
